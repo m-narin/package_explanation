@@ -1,1 +1,1 @@
-"# packageの説明用 (python)" 
+# packageの説明用 (python)
